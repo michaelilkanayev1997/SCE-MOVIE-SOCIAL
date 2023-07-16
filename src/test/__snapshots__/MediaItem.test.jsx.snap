@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MediaItem component should render correctly with movie media 1`] = `ShallowWrapper {}`;
+
+exports[`MediaItem component should render correctly with tv media 1`] = `ShallowWrapper {}`;
