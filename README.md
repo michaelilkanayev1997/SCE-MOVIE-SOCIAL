@@ -32,7 +32,7 @@ This README provides information on how to set up the project locally, as well a
 
 ## Demo
 
-A live demo of the application will be available soon.
+A live demo of the application : https://sce-movie-social.netlify.app/
 
 ## Installation
 
