@@ -2,12 +2,12 @@
 
 ### `Pictures:`
 
-<img src="https://github.com/BS-PMC-2023/BS-PMC-2023-Team23/assets/93651794/e00a4ba1-eea0-42cf-b20c-4f31f48a22bd" width="35%" height="30%"  ></img> 
-<img src="https://github.com/BS-PMC-2023/BS-PMC-2023-Team23/assets/93651794/07bbf6c6-8312-4a3b-97ea-689038c7e7ee" width="35%" height="35%"  ></img> 
-<img src="https://github.com/BS-PMC-2023/BS-PMC-2023-Team23/assets/93651794/1d6a78ca-0e8b-4ef0-8baa-676258f21af7" width="35%" height="35%"  ></img> 
-<img src="https://github.com/BS-PMC-2023/BS-PMC-2023-Team23/assets/93651794/dbd0e3b4-2c4d-46e3-b670-d696636b11ef" width="35%" height="35%"  ></img> 
-<img src="https://github.com/BS-PMC-2023/BS-PMC-2023-Team23/assets/93651794/765624f5-f5a8-402d-9c13-f34c9b33c06c" width="35%" height="35%"  ></img> 
-<img src="https://github.com/BS-PMC-2023/BS-PMC-2023-Team23/assets/93651794/a79e0f1d-9016-494d-9d21-baf76fb95552" width="35%" height="35%"  ></img> 
+<img src="https://github.com/michaelilkanayev1997/SCE-MOVIE-SOCIAL/assets/93651794/78d6c922-1706-4b63-99a0-ed29528621a7" width="35%" height="30%"  ></img> 
+<img src="https://github.com/michaelilkanayev1997/SCE-MOVIE-SOCIAL/assets/93651794/93880a5f-2f68-491c-8b19-f0db84fdf090" width="35%" height="35%"  ></img> 
+<img src="https://github.com/michaelilkanayev1997/SCE-MOVIE-SOCIAL/assets/93651794/0d357e28-7da2-4df3-ab01-7bda1e3fcd5c" width="35%" height="35%"  ></img> 
+<img src="https://github.com/michaelilkanayev1997/SCE-MOVIE-SOCIAL/assets/93651794/8030dd64-9a63-48e7-90f8-4f3757774af2" width="35%" height="35%"  ></img> 
+<img src="https://github.com/michaelilkanayev1997/SCE-MOVIE-SOCIAL/assets/93651794/39494647-ff7d-4e50-a20b-3227e01e0924" width="35%" height="35%"  ></img> 
+<img src="https://github.com/michaelilkanayev1997/SCE-MOVIE-SOCIAL/assets/93651794/8885b678-3dd7-4915-a631-b07e1a723264" width="35%" height="35%"  ></img> 
 
 ## Description
 
